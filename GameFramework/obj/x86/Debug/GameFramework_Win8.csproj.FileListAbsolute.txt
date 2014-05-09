@@ -1,0 +1,107 @@
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\obj\x86\Debug\LanguageQualifiers.txt
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.pdb
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.pri
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\MonoGame.Framework.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XAudio2.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.DXGI.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XInput.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XAudio2.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.DXGI.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XInput.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.csprojResolveAssemblyReference.cache
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.dll
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.pdb
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\priconfig.xml
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\layout.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\resources.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\pri.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\GameFramework\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.csprojResolveAssemblyReference.cache
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\GameFramework\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\bin\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\GameFramework\obj\x86\Debug\GameFramework_Win8.csprojResolveAssemblyReference.cache

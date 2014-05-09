@@ -1,0 +1,60 @@
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+Common\StandardStyles.xaml
+GamePage.xaml
+Content\bg4.xnb
+Content\bg5.xnb
+Content\Body_Red_Shroom_0.xnb
+Content\CartoonTree.xnb
+Content\collect.wma
+Content\collect.xnb
+Content\Color_0.xnb
+Content\Cross.xnb
+Content\Customer Only Download\CrossLayout.xnb
+Content\CylinderAmbient_Occlusion.xnb
+Content\CylinderSurface_Color.xnb
+Content\DryLand.xnb
+Content\FBX\128B39C7\MarioShroom_Red.fbm\Body_Red_Shroom_0.xnb
+Content\FBX\128B39C7\MarioShroom_Red.fbm\Shroom_Red_0.xnb
+Content\FBX\341B2924\StrangeFlower.fbm\StrangeFlower_TEXT_0.xnb
+Content\FBX\832B36A1\root fbx.fbm\CylinderSurface_Color_0.xnb
+Content\FBX\832B36A1\root fbx.fbm\wood_0.xnb
+Content\Flower.xnb
+Content\geto.wma
+Content\geto.xnb
+Content\ghost\GhostMaterial_0.xnb
+Content\GhostFire.wma
+Content\GhostFire.xnb
+Content\Grass.xnb
+Content\Heart.xnb
+Content\hit.wma
+Content\hit.xnb
+Content\HorrorTree.xnb
+Content\MarioShroom_Red.xnb
+Content\Miramonte.xnb
+Content\NightSky.xnb
+Content\Nintendoghost.xnb
+Content\Normal.xnb
+Content\Orange.xnb
+Content\root fbx.xnb
+Content\scary.wma
+Content\scary.xnb
+Content\shot.xnb
+Content\shot2.xnb
+Content\Shroom_Red_0.xnb
+Content\sign.xnb
+Content\Sky.xnb
+Content\Smoke.xnb
+Content\StrangeFlower.xnb
+Content\StrangeFlower_TEXT_0.xnb
+Content\tex\CrossTexture1.xnb
+Content\tex\CrossTexture1_0.xnb
+Content\Thurder.xnb
+Content\Thurder2.xnb
+Content\Times New Roman.xnb
+Content\TreeUVmap.xnb
+Content\TreeUVmap_0.xnb
+Content\wood.xnb

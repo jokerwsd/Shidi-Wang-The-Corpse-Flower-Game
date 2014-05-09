@@ -1,0 +1,2 @@
+C:\Users\shidi\Desktop\Shidi Wang Final Project\GameFramework\GameFramework_Win8.csproj;neutral
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\Shidi_Wang_Project.csproj;neutral

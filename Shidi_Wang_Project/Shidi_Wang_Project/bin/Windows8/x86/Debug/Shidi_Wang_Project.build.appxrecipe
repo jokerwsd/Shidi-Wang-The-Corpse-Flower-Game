@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JUDY</Machine>
+    <WindowsUser>shidi</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe">
+      <PackagePath>Shidi_Wang_Project.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb">
+      <PackagePath>Shidi_Wang_Project.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\GameFramework\bin\x86\Debug\GameFramework_Win8.pdb">
+      <PackagePath>GameFramework_Win8.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\GameFramework\bin\x86\Debug\GameFramework_Win8.dll">
+      <PackagePath>GameFramework_Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\collect.wma">
+      <PackagePath>Content\collect.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\geto.wma">
+      <PackagePath>Content\geto.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\GhostFire.wma">
+      <PackagePath>Content\GhostFire.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\hit.wma">
+      <PackagePath>Content\hit.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\scary.wma">
+      <PackagePath>Content\scary.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Grass.xnb">
+      <PackagePath>Content\Grass.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\NightSky.xnb">
+      <PackagePath>Content\NightSky.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Flower.xnb">
+      <PackagePath>Content\Flower.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\CartoonTree.xnb">
+      <PackagePath>Content\CartoonTree.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\StrangeFlower.xnb">
+      <PackagePath>Content\StrangeFlower.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\StrangeFlower_TEXT_0.xnb">
+      <PackagePath>Content\StrangeFlower_TEXT_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\HorrorTree.xnb">
+      <PackagePath>Content\HorrorTree.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\ghost\GhostMaterial_0.xnb">
+      <PackagePath>Content\ghost\GhostMaterial_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Nintendoghost.xnb">
+      <PackagePath>Content\Nintendoghost.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Sky.xnb">
+      <PackagePath>Content\Sky.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\TreeUVmap_0.xnb">
+      <PackagePath>Content\TreeUVmap_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\scary.xnb">
+      <PackagePath>Content\scary.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\DryLand.xnb">
+      <PackagePath>Content\DryLand.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Heart.xnb">
+      <PackagePath>Content\Heart.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\TreeUVmap.xnb">
+      <PackagePath>Content\TreeUVmap.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\MarioShroom_Red.xnb">
+      <PackagePath>Content\MarioShroom_Red.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Body_Red_Shroom_0.xnb">
+      <PackagePath>Content\Body_Red_Shroom_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Shroom_Red_0.xnb">
+      <PackagePath>Content\Shroom_Red_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\FBX\128B39C7\MarioShroom_Red.fbm\Body_Red_Shroom_0.xnb">
+      <PackagePath>Content\FBX\128B39C7\MarioShroom_Red.fbm\Body_Red_Shroom_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\FBX\128B39C7\MarioShroom_Red.fbm\Shroom_Red_0.xnb">
+      <PackagePath>Content\FBX\128B39C7\MarioShroom_Red.fbm\Shroom_Red_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Color_0.xnb">
+      <PackagePath>Content\Color_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\CylinderAmbient_Occlusion.xnb">
+      <PackagePath>Content\CylinderAmbient_Occlusion.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\CylinderSurface_Color.xnb">
+      <PackagePath>Content\CylinderSurface_Color.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\FBX\341B2924\StrangeFlower.fbm\StrangeFlower_TEXT_0.xnb">
+      <PackagePath>Content\FBX\341B2924\StrangeFlower.fbm\StrangeFlower_TEXT_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Smoke.xnb">
+      <PackagePath>Content\Smoke.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\geto.xnb">
+      <PackagePath>Content\geto.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\GhostFire.xnb">
+      <PackagePath>Content\GhostFire.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\hit.xnb">
+      <PackagePath>Content\hit.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\shot.xnb">
+      <PackagePath>Content\shot.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Normal.xnb">
+      <PackagePath>Content\Normal.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Orange.xnb">
+      <PackagePath>Content\Orange.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\wood.xnb">
+      <PackagePath>Content\wood.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\FBX\832B36A1\root fbx.fbm\CylinderSurface_Color_0.xnb">
+      <PackagePath>Content\FBX\832B36A1\root fbx.fbm\CylinderSurface_Color_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\FBX\832B36A1\root fbx.fbm\wood_0.xnb">
+      <PackagePath>Content\FBX\832B36A1\root fbx.fbm\wood_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\root fbx.xnb">
+      <PackagePath>Content\root fbx.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\shot2.xnb">
+      <PackagePath>Content\shot2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\sign.xnb">
+      <PackagePath>Content\sign.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Times New Roman.xnb">
+      <PackagePath>Content\Times New Roman.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Thurder.xnb">
+      <PackagePath>Content\Thurder.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Thurder2.xnb">
+      <PackagePath>Content\Thurder2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Miramonte.xnb">
+      <PackagePath>Content\Miramonte.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\bg4.xnb">
+      <PackagePath>Content\bg4.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\bg5.xnb">
+      <PackagePath>Content\bg5.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\collect.xnb">
+      <PackagePath>Content\collect.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Cross.xnb">
+      <PackagePath>Content\Cross.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\Customer Only Download\CrossLayout.xnb">
+      <PackagePath>Content\Customer Only Download\CrossLayout.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\tex\CrossTexture1.xnb">
+      <PackagePath>Content\tex\CrossTexture1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Content\tex\CrossTexture1_0.xnb">
+      <PackagePath>Content\tex\CrossTexture1_0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

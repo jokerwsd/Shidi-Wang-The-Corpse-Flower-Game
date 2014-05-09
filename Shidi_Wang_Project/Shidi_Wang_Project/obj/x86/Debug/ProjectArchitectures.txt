@@ -1,0 +1,2 @@
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\GameFramework\GameFramework_Win8.csproj;x86
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\Shidi_Wang_Project.csproj;x86

@@ -1,0 +1,385 @@
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Grass.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\NightSky.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.build.appxrecipe
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csprojResolveAssemblyReference.cache
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.xaml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.xaml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csproj.GenerateResource.Cache
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX.pri
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Flower.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CartoonTree.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\HorrorTree.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\ghost\GhostMaterial_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Nintendoghost.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Sky.xnb
+C:\Users\shidi\Desktop\Shidi Wang Final Project\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Grass.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\NightSky.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Flower.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CartoonTree.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\HorrorTree.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\ghost\GhostMaterial_0.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Nintendoghost.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Sky.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap_0.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.xnb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.build.appxrecipe
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\MonoGame.Framework.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.dll
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pdb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pri
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csprojResolveAssemblyReference.cache
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.i.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.i.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.i.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.xaml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.xaml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.xaml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.exe
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.pdb
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csproj.GenerateResource.Cache
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX.pri
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml.intermediate
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles.intermediate
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles.intermediate
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles.intermediate
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\LanguageQualifiers.txt
+D:\doc\Tencent Files\1276659189\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Grass.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\NightSky.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Flower.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CartoonTree.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\HorrorTree.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\ghost\GhostMaterial_0.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Nintendoghost.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Sky.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap_0.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.xnb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.build.appxrecipe
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csprojResolveAssemblyReference.cache
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.xaml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.xaml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csproj.GenerateResource.Cache
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX.pri
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Documents\Tencent Files\475736054\FileRecv\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Grass.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\NightSky.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Flower.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CartoonTree.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.wma
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\StrangeFlower.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\StrangeFlower_TEXT_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\HorrorTree.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\ghost\GhostMaterial_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Nintendoghost.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Sky.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\DryLand.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Heart.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\MarioShroom_Red.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Body_Red_Shroom_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Shroom_Red_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.build.appxrecipe
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csprojResolveAssemblyReference.cache
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.xaml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.xaml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csproj.GenerateResource.Cache
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX.pri
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\128B39C7\MarioShroom_Red.fbm\Body_Red_Shroom_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\128B39C7\MarioShroom_Red.fbm\Shroom_Red_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Smoke.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\geto.wma
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\GhostFire.wma
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\hit.wma
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\geto.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\GhostFire.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\hit.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\shot.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Color_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Normal.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Orange.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CylinderAmbient_Occlusion.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CylinderSurface_Color.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\wood.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\832B36A1\root fbx.fbm\wood_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\341B2924\StrangeFlower.fbm\StrangeFlower_TEXT_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\832B36A1\root fbx.fbm\CylinderSurface_Color_0.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\root fbx.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\shot2.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\sign.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Times New Roman.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Thurder.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Thurder2.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Miramonte.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\bg4.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\bg5.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\collect.wma
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\collect.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Cross.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Customer Only Download\CrossLayout.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\tex\CrossTexture1.xnb
+C:\Users\shidi\Desktop\ShidiWangFinalProject\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\tex\CrossTexture1_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\832B36A1\root fbx.fbm\wood_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\collect.wma
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\geto.wma
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\GhostFire.wma
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Grass.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\hit.wma
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\NightSky.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Flower.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CartoonTree.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.wma
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\StrangeFlower.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\StrangeFlower_TEXT_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\HorrorTree.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\ghost\GhostMaterial_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Nintendoghost.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Sky.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\scary.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\DryLand.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Heart.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\TreeUVmap.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\MarioShroom_Red.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Body_Red_Shroom_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Shroom_Red_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\128B39C7\MarioShroom_Red.fbm\Body_Red_Shroom_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\128B39C7\MarioShroom_Red.fbm\Shroom_Red_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Color_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CylinderAmbient_Occlusion.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\CylinderSurface_Color.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\341B2924\StrangeFlower.fbm\StrangeFlower_TEXT_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Smoke.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\geto.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\GhostFire.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\hit.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\shot.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Normal.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Orange.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\wood.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\FBX\832B36A1\root fbx.fbm\CylinderSurface_Color_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\root fbx.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\shot2.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\sign.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Times New Roman.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Thurder.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Thurder2.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Miramonte.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\bg4.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\bg5.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\collect.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Cross.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\Customer Only Download\CrossLayout.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\tex\CrossTexture1.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Content\tex\CrossTexture1_0.xnb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\resources.pri
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\AppxManifest.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\Shidi_Wang_Project.build.appxrecipe
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\MonoGame.Framework.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.dll
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pdb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\GameFramework_Win8.pri
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XInput.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.DXGI.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\bin\Windows8\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csprojResolveAssemblyReference.cache
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.g.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.g.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\App.xaml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\GamePage.xaml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.exe
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.pdb
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\Shidi_Wang_Project.csproj.GenerateResource.Cache
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX.pri
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\priconfig.xml
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\layout.resfiles
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\resources.resfiles
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\pri.resfiles
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\LanguageQualifiers.txt
+C:\Users\shidi\Desktop\Shidi Wang fc7571 Final Project CSC6430\Shidi_Wang_Project\Shidi_Wang_Project\obj\x86\Debug\ProjectArchitectures.txt
